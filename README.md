@@ -3,7 +3,7 @@
 ## Google Ana Sayfasını Tasarlamak
 
 
-### Furkan Şevki ARICI
+Furkan Şevki ARICI
 
 
 ![Prev](./google_homepage/assets/preview.png)
